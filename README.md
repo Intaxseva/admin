@@ -7,6 +7,4 @@ Features :
   3. Export to Excel
   4. Chart
   
-Account Login :
-  1. username : intaxseva / password : intaxseva
 
